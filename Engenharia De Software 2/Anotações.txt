@@ -2,3 +2,15 @@ Aula 1:
 
 Arquitetura de software: Compõe especifícações do problema e a partir da desta, 
 propõe soluções técnicas.
+
+Exemplo de modelo de camadas de um software: (Web)
+- Apresentação
+- Aplicação
+- Dominío
+- INFRA
+
+
+ORM -  (Object-relational mapping)
+
+
+
