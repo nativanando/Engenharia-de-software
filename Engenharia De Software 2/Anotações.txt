@@ -1,0 +1,4 @@
+Aula 1:
+
+Arquitetura de software: Compõe especifícações do problema e a partir da desta, 
+propõe soluções técnicas.
