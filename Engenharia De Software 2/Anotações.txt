@@ -13,4 +13,8 @@ Exemplo de modelo de camadas de um software: (Web)
 ORM -  (Object-relational mapping)
 
 
+Garantia de qualidade evidencia se o processo foi seguido.
+
+
+
 
