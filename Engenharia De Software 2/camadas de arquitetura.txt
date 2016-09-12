@@ -1,0 +1,11 @@
+estilo da arquitetura do software
+Vai ter um painel web para a manipulação das secretárias.
+Um aplicativo mobile para os condutores usarem. (hibrído)
+
+Front-end // Será utilizado HTML5/CSS3/AngularJS/Ionic(Mobile)
+Back-end //Express Node.Js
+persistência //PostgreSQL
+
+Será necessário uma aplicação hibrida pela diversidade dos dispositivos dos motoristas, foi pensando no framework IONIC composto pelo 
+apache cordova(tecnologia que compila códigos em HTML e JAVASCRIPT para plataformas mobiles (iOS, Android, Windows Phone))
+a tecnologia foi escolhida por não necessitar de uma escalabilidade alta e não ser uma aplicação tão complexa.
