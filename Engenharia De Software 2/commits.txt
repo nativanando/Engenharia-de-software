@@ -1,0 +1,300 @@
+* commit c078393ab5528e51249b84e108bd2b8e3054345f
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Sun Nov 20 10:05:48 2016 -0200
+| 
+|     Arquivo referente a explicação da atividade
+|  
+* commit 6383f172e4606230aca2565ecc8acc3b7b0c9712
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Sun Nov 20 09:56:11 2016 -0200
+| 
+|     Digrama do 1 bimestre
+|  
+* commit 5c2ecba045aa7ec282ccdd2174a40195bb7ed4b5
+| Author: Teste <teste@gmail.com>
+| Date:   Sun Nov 20 09:45:10 2016 -0200
+| 
+|     Adicionando especificação de CI
+|  
+* commit 610c638a8c50efc2fdb2a1733295c36e2b70cada
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Sun Nov 20 09:42:12 2016 -0200
+| 
+|     Regra exigida para implantação
+|  
+* commit f4b0df780e2ab2789d41ec38cbb9b911f52d4302
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Sun Nov 20 09:36:44 2016 -0200
+| 
+|     Adicionando diagramas de casos de testes
+|  
+* commit 17f6130c5dc6f4da7b4052daaae3960f133e6126
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Sun Nov 20 09:24:51 2016 -0200
+| 
+|     Adicionando diagramas de sequencia
+|  
+* commit 830575569d27fcc708454fbdf13facf0240987c4
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Sun Nov 20 09:24:23 2016 -0200
+| 
+|     Adicionando diagrama de pacotes
+|  
+* commit bcfe52f864362dee84a2c9d93853c34a778ddad1
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Sun Nov 20 09:24:05 2016 -0200
+| 
+|     Adicionando diagramas de classes
+|  
+* commit 20009a5c72b33c0361126688f4137e40e651efab
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Sun Nov 20 09:23:34 2016 -0200
+| 
+|     Adicionando diagramas de casos de uso
+|    
+*   commit b3bc66d1bec4dd9b07896a0ed3964c85b3fb5ee5
+|\  Merge: 3c89a02 8c204a1
+| | Author: Fernando <nativanando@gmail.com>
+| | Date:   Sun Nov 20 09:14:33 2016 -0200
+| | 
+| |     Merge branch 'master' of https://github.com/nativanando/Engenharia-de-software
+| |   
+| * commit 8c204a12fd493e5a2fe9ad4dcf9fc3a3b75bea1f
+| | Author: Fernando Natividade <nativanando@gmail.com>
+| | Date:   Mon Sep 12 20:11:34 2016 -0300
+| | 
+| |     Delete atividade03.rar
+| |   
+* | commit 3c89a024023ee0c6f5870df37e7ae71ffcf6e0b6
+|/  Author: Fernando <nativanando@gmail.com>
+|   Date:   Sun Nov 20 09:13:44 2016 -0200
+|   
+|       Adicionando requisitos
+|  
+* commit 619d59ba6b8a9ab5a70ac58e11c615474df124db
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Mon Sep 12 20:09:40 2016 -0300
+| 
+|     Especificando arquitetura e tecnologia. Parte do trabalho
+|  
+* commit e3539079eba34b2b6b0e6e0b54bf357b0694fbad
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Mon Sep 12 19:56:25 2016 -0300
+| 
+|     atividade03 de fixação, padrões de projeto com testes unitários
+|  
+* commit 2f4a2a0aa6ba0daba7e84114377ced9a33499db0
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Mon Sep 12 19:54:57 2016 -0300
+| 
+|     Atividade 01 de fixação, diagrama de pacotes de entidades
+|  
+* commit abedc72deee7a94aaae02487ad9c010465ff92c2
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Mon Sep 12 19:53:06 2016 -0300
+| 
+|     Att arquivo, trabalho bimestral 1 bimestre contendo UML e TDD
+|  
+* commit 153c83bdf2f7af1d7dca66d918eaf7315d59d3b3
+| Author: Fernando <nativanando@gmail.com>
+| Date:   Mon Sep 12 19:48:52 2016 -0300
+| 
+|     Trabalho Bimestral contendo toda a estrutura UML e os testes
+|  
+* commit 8602ed64050206581c8ef461e8963de8430c19f1
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Aug 1 20:28:41 2016 -0300
+| 
+|     Att anotacoes
+|  
+* commit d0af6330912e6be348a11a2ad9c26c02befd28f6
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Tue Jul 26 20:26:28 2016 -0300
+| 
+|     Exemplo em sala. Arquitetura web
+|  
+* commit fd0e90e87120b6e0a92e35ab8ff91cc513e3e5cf
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Tue Jul 26 20:24:58 2016 -0300
+| 
+|     Anotações aula01 Final
+|  
+* commit 25374b1d83d671a7d3f554a8ce045f02d08f5319
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Tue Jul 26 19:34:58 2016 -0300
+| 
+|     Anotações Aula 1
+|  
+* commit ddc1e959b12145e1411c8ab2056e6ac161993c17
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Tue Apr 5 00:08:54 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit d1543fe191c795413881b00e51ec1468165cbbce
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Tue Apr 5 00:07:34 2016 -0300
+| 
+|     Delete Exercicio02Trabalho.bpmn
+|  
+* commit 2cc52287ab43c6b04d9a37ed903dc2630da4b74a
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Tue Apr 5 00:02:44 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit 162ebfaa7dbee50e6168418c67672eda4c060db4
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Tue Apr 5 00:00:36 2016 -0300
+| 
+|     Delete Serviço Auto Cataratas.pdf
+|  
+* commit 157ab55c2f87e857f581ad5c24faba1cc2a04046
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 23:57:46 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit e7fe9e83a64bcf9e8df7d6a3ffbc49151adcc58a
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 23:57:31 2016 -0300
+| 
+|     Delete PrototipacaoDeTelasEx04.bmpr
+|  
+* commit 63175eb39a07836dca47f7e467fbfbdc51c4f3a9
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 23:54:36 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit 6bb4e7084ae3a09b4c983cb96b1ef6291d2687ae
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 23:54:02 2016 -0300
+| 
+|     Delete diagramaRequisitosTrabalho03.asta
+|  
+* commit 0a3bcc3994ccb4de6d124b24becaf86806bdc85c
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 23:19:03 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit 26607ab9d51f68adb9933f0dc0c7d4c329a223da
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 23:18:24 2016 -0300
+| 
+|     Delete VisãoRUP.pdf
+|  
+* commit 67c537395bc9695c9ea39b17c3237d58b1d281eb
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 23:18:13 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit dd94188560e343516405fa7c854fada7f92ad7d9
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 23:17:59 2016 -0300
+| 
+|     Delete Exercicio02Trabalho.bpmn
+|  
+* commit 2e75ce1abc393dea46e4e716d71252c4da5c4311
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 17:24:27 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit d7df40d35d4c7b81270ece8ce927448dad89251b
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 17:23:44 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit 73b8d58887d61610f24ffde8bf1909c8d205e62d
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 17:21:31 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit 941eef099d0d6164153e97571ca45ee031a645e5
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 17:21:10 2016 -0300
+| 
+|     Delete DiagramaRequisitos-Ex03-04-05.asta
+|  
+* commit 7a882ad7a1781a94f4c857c27ba611f460cb42e2
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Apr 4 17:20:56 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit 943cd42b803d9a4736dc9168cbf3bad80af287ce
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Mar 28 19:58:51 2016 -0300
+| 
+|     Delete zxczxcxz
+|  
+* commit ff3b4b2391fa44c25776f6eee7b6ec54cf37796e
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Mar 28 19:58:37 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit c21710135431da22fb566a22054bfc04f71e5e86
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Mar 28 19:58:05 2016 -0300
+| 
+|     Delete AutoService.pdf
+|  
+* commit 5fd3018e51536086ebc48c2244eb3f34c3a56596
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Mar 28 19:57:45 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit bca961b739d5f928fc79db83f7506e13e8cbd386
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Mar 28 19:52:51 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit 3e342ef6a2fea08484a25098155c51932b8d551b
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Mar 28 10:54:33 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit 6be0683434b570b61b13fd622a00c19861abb500
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Mar 28 10:53:27 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit 1048c54f5e8eb11a8c4b919e0be1dc356e2ac0b3
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Mar 28 10:53:00 2016 -0300
+| 
+|     Delete Diagrama_OrientacaoVeiculo.asta
+|  
+* commit 064c3b5e6d4ff456b1f5601564ad561136f1120a
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Mar 28 10:47:20 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit 6822853f08074ece2d34b4ba2a137172630908b4
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Mar 7 20:54:26 2016 -0300
+| 
+|     Delete RUP.pdf
+|  
+* commit 8aca2b34924bf2b2f8df7e75429b4c2757efd265
+| Author: Fernando Natividade <nativanando@gmail.com>
+| Date:   Mon Mar 7 20:52:18 2016 -0300
+| 
+|     Added files via upload
+|  
+* commit 9939f3f4e01053d3a2bb5b4170eda2dcc1baa974
+  Author: Fernando Natividade <nativanando@gmail.com>
+  Date:   Mon Mar 7 20:00:38 2016 -0300
+  
+      Update and rename .gitignore to zxczxcxz
